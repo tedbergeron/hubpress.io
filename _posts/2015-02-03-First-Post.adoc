@@ -1,0 +1,17 @@
+= First Post
+I wonder how you use tags?
+
+== This is my first post
+
+I love that HubPress uses AsciiDoc
+
+NOTE: uses AsciiDoc
+
+This is awesome.
+
+I've made a change here. And another.
+
+== Added Asciidoctor styles	
+
+I've added the asciidoctor.css file and a link into the theme template. Let's see how it looks?
+

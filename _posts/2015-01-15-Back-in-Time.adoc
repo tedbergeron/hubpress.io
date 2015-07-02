@@ -1,0 +1,16 @@
+= Back in Time
+:hp-tags: Coffee, Ipsum
+
+This post is posted back in time to see how multiple days works.  I just added a new post locally as a .adoc file and pushed it up. Then logged into /HubPress to publish it.
+
+Java cinnamon café au lait fair trade extra cream body carajillo. Caffeine espresso and con panna, aftertaste, so milk dark wings barista caffeine fair trade. In single shot saucer beans carajillo, iced con panna french press aroma foam.
+
+* white
+* mocha
+* no-whip
+
+Shop, french press mazagran brewed, flavour, single origin grounds affogato filter crema. Redeye cortado, saucer white sweet organic sweet. Coffee java, instant pumpkin spice café au lait, spoon wings aromatic at acerbic.
+
+Trifecta latte robusta filter sweet, in, single shot shop affogato redeye sit that. Steamed, cinnamon crema at spoon caffeine shop robust aged whipped. Ut so, seasonal aged acerbic robusta medium.
+
+Dripper that, con panna café au lait arabica, cup aftertaste decaffeinated aroma percolator crema kopi-luwak. As, and aroma white robust, to go organic foam strong ut flavour. Cultivar, latte whipped white saucer mocha grounds.

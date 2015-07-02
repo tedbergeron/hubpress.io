@@ -1,4 +1,6 @@
-= HubPress upgraded 
+= HubPress upgraded
+
 
 * Now using v0.2.0.
+
 * I'm testing out the themes here.

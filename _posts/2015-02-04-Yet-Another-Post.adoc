@@ -1,0 +1,23 @@
+= Yet Another Post
+:hp-tags: AsciiDoc, theme
+
+Anthonny is helping me to get this thing going. Now that I have my default branch set to "gh-pages", it is working pretty well.
+
+I want to figure out how tags work.
+
+== How Tags Work
+
+ :hp-tags: tag1,tag2
+
+
+== Add Post Image
+and you can also add a post image with
+
+ :hp-image: http://url-image
+
+
+Next I will play around with the themes and try to customize my own.
+
+CAUTION: HubPress.io uses AsciiDoc (admonition here)
+
+This is great.

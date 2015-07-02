@@ -1,6 +1,9 @@
 = HubPress upgraded
 
+18-MAR-2015
 
 * Now using v0.2.0.
 
 * I'm testing out the themes here.
+
+This is the original post.

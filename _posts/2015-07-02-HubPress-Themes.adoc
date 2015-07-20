@@ -10,7 +10,7 @@ There are five built in themes at this time. They are:
 
 Currently I like the uno theme for it's dark forest splash page. Then the blog link moves that to a left bar showing the posts on the right.
 
-I like the way Saga shows about six posts on the home page like little cards. But I'm not sure if the show more posts is working correctly. And I like the dark header with the title that drops and fades in.
+I like the way Saga shows your five posts on the home page like little cards. But the LOAD MORE + is not working correctly for me. I like the dark header on the Posts where the title that drops and fades in.
 
 The ichi theme is a blue and white theme with an author card.
 

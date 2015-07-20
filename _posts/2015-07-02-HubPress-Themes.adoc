@@ -1,4 +1,5 @@
 = HubPress Themes
+:hp-tags: theme
 
 There are five built in themes at this time. They are:
 

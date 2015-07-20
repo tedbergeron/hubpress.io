@@ -1,5 +1,5 @@
 = Yet Another Post
-:hp-tags: AsciiDoc, theme
+:hp-tags: theme
 
 Anthonny is helping me to get this thing going. Now that I have my default branch set to "gh-pages", it is working pretty well.
 

@@ -1,104 +1,75 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
-    <title>My HubPress Blog</title>
-    <meta name="description" content="For now this is a test blog to demo HubPress. I have been using Jekyll" />
-
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="shortcut icon" href="//tedbergeron.github.io/hubpress.io/themes/Roon/favicon.ico">
-
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:400,700,400italic,700italic|Open+Sans:400italic,700italic,700,400">
-    <link rel="stylesheet" type="text/css" href="//tedbergeron.github.io/hubpress.io/themes/Roon/assets/css/screen.css?v=1.0.0" />
-
+    <title>My HubPress Blog</title>
+    <meta name="description" content="For now this is a test blog to demo HubPress. I have been using Jekyll" />
+    <link href="//fonts.googleapis.com/css?family=Noto+Sans:300,400,700" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic" rel="stylesheet" type="text/css">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href="//tedbergeron.github.io/hubpress.io/themes/Saga/assets/css/style.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//tedbergeron.github.io/hubpress.io/themes/Saga/assets/css/animate.min.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//tedbergeron.github.io/hubpress.io/themes/Saga/favicon.ico" rel="shortcut icon">
     <link rel="canonical" href="https://tedbergeron.github.io/hubpress.io" />
     <meta name="generator" content="Ghost ?" />
     <link rel="alternate" type="application/rss+xml" title="My HubPress Blog" href="https://tedbergeron.github.io/hubpress.io/rss" />
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css">
 </head>
-<body class="tag-template tag-AsciiDoc home-template user ">
-
-    
-<header role="banner">
-    <div class="wrap">
-        <h1><a href="https://tedbergeron.github.io/hubpress.io">Tag: AsciiDoc</a></h1>
-        <hr>
+<body class="tag-template tag-AsciiDoc home-template">
+    <header id="header" class="animated fadeIn">
+    <div class="header-background">
+    <section class="blog-content">
+        <a id="site-url" class="blog-title" href="https://tedbergeron.github.io/hubpress.io">My HubPress Blog</a>
+        <span class="blog-description">For now this is a test blog to demo HubPress. I have been using Jekyll</span>
+        <nav class="links fadeIn animated">
+            <ul>
+                <!-- <li class="rss"><a title="RSS Feed" href="/rss/"><i class="fa fa-fw fa-rss-square"></i></a></li> -->
+                <li class="github"><a title="GitHub" href="https://github.com/tedbergeron"><i class="fa fa-fw fa-github-square"></i></a></li>
+        
+            </ul>
+        </nav>
+    </section>
+    <section class="header-content">
+        <h1 class="tag-title animated fadeInUp">AsciiDoc</h1>
+        <span class="tag-data"><span class="tag-description animated fadeInUp"></span></span>
+    </section>
     </div>
 </header>
-
-
-<article class="post tag-AsciiDoc tag-theme ">
-
-
-    <div class="meta">
-        <time datetime="2015-02-04"><a href="https://tedbergeron.github.io/hubpress.io/2015/02/04/Yet-Another-Post.html">February 04, 2015</a></time>
-    </div>
-
-    <header>
-        <h1><a href="https://tedbergeron.github.io/hubpress.io/2015/02/04/Yet-Another-Post.html">Yet Another Post</a></h1>
-    </header>
-
-    <div class="text">
-        <p>Anthonny is helping me to get this thing going. Now that I have my default branch set to "gh-pages", it is working pretty well. I want to figure out how tags work. How Tags Work :hp-tags: tag1,tag2 Add Post Image and you can also</p>
-        <a href="https://tedbergeron.github.io/hubpress.io/2015/02/04/Yet-Another-Post.html" class="readmore">Continue Reading</a>
-    </div>
-</article>
-
-<nav class="pagination" role="navigation">
-    <span class="page-number">Page 1 of 1</span>
-</nav>
-
-<footer role="contentinfo">
-    <div class="inner">
-        <div class="vcard">
-            <!-- <a href="https://tedbergeron.github.io/hubpress.io/rss" id="btn_feed" class="btn" title="Feed" target="_blank">
-                <span aria-hidden="true" data-icon=")"></span>
-                <strong>Feed</strong>
-            </a> -->
-
-
-            <div class="details">
-                <h4><a href="https://tedbergeron.github.io/hubpress.io" class="url n">My HubPress Blog</a></h4>
-                <a href="https://tedbergeron.github.io/hubpress.io" class="js-remove-domain-schema">https://tedbergeron.github.io/hubpress.io</a><br>
-                <span>Published with <a href="http://hubpress.io">HubPress</a></span>
-            </div>
-        </div>
-        <div id="user_bio">
-            <div class="inner">
-                For now this is a test blog to demo HubPress. I have been using Jekyll
-            </div>
-        </div>
-    </div>
-</footer>
-
-
-
-
-    <script>
-
-
-        function no_schema_links () {
-            var links = document.querySelectorAll('.js-remove-domain-schema');
-            if (links) {
-                for (i = 0; i < links.length; ++i) {
-                    var link = links[i],
-                        text = link.innerHTML,
-                        no_schema = text.replace(/.*?:\/\//g, "");
-                    link.innerHTML = no_schema;
-                }
-            }
-        }
-
-        window.onload = function () {
-            no_schema_links();
-
-        }
-    </script>
-
+<main id="main" class="archive">
+    <section id="feed" class="feed">
+        <article class="post tag-AsciiDoc tag-theme" style="opacity: 0;">
+    
+            <h2 class="post-title"><a href="https://tedbergeron.github.io/hubpress.io/2015/02/04/Yet-Another-Post.html">Yet Another Post</a></h2>
+            <section class="post-content">
+                Anthonny is helping me to get this thing going. Now that I have my default branch set to "gh-pages", it is working pretty well. I…
+            </section>
+            <section class="post-meta">
+                <span class="date"><i class="fa fa-clock-o"></i> <a href="https://tedbergeron.github.io/hubpress.io/2015/02/04/Yet-Another-Post.html"><time class="timesince" data-timesince="1423036800" datetime="2015-02-04T00:00" title="4 February 2015">2015-02-04 00:00:00<ago class="ago"></time></a></span>
+                
+                <span class="tags"><i class="fa fa-tags"></i>
+                    <span>
+                    <a href="https://tedbergeron.github.io/hubpress.io/tag/AsciiDoc">AsciiDoc</a>, <a href="https://tedbergeron.github.io/hubpress.io/tag/theme"> theme</a></span>
+                </span>
+            </section>
+        </article></section>
+    <nav class="pagination" role="navigation">
+        <span class="page-number">Page 1 of 1</span>
+    </nav></main>
+    <footer class="animated fadeIn" id="footer">
+        <section class="colophon">
+          <section class="copyright">Copyright &copy; <span itemprop="copyrightHolder">My HubPress Blog</span>. <span rel="license">All Rights Reserved</span>.</section>
+          <section class="poweredby">Published with <a class="icon-ghost" href="http://hubpress.io">HubPress</a></section>
+        </section>
+        <section class="bottom">
+          <section class="attribution">
+            <a href="http://github.com/Reedyn/Saga">Built with <i class="fa fa-heart"></i> and Free and Open-Source Software</a>.
+          </section>
+        </section>
+    </footer>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js?v="></script> 
       <script type="text/javascript">
         jQuery( document ).ready(function() {
@@ -111,9 +82,7 @@
 
         hljs.initHighlightingOnLoad();      
       </script>
-
-
-
-
+    <script src="//tedbergeron.github.io/hubpress.io/themes/Saga/assets/js/scripts.js?v=1.0.0"></script>
+    
 </body>
 </html>

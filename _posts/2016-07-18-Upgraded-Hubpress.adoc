@@ -1,0 +1,12 @@
+= Upgraded Hubpress
+
+After being behind several dozen changes off the main branch. I've finally managed to merge all the changes. 
+
+I hope with the new check for updates button, that I can keep in sync better.
+
+Also I'm trying out the new themes: 
+
+* Roon
+* uno-zen
+* ghostium
+

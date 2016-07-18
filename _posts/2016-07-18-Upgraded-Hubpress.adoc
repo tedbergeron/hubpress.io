@@ -10,3 +10,5 @@ Also I'm trying out the new themes:
 * uno-zen
 * ghostium
 
+NOTE: Currently using the Ghostium theme
+

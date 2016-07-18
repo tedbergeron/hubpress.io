@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Test HubPress blog]]></title><description><![CDATA[Testing out all the latest changes.]]></description><link>https://tedbergeron.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 18 Jul 2016 18:03:19 GMT</lastBuildDate><atom:link href="https://tedbergeron.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[HubPress Themes]]></title><description><![CDATA[<div class="paragraph">
+<p>There are five built in themes at this time. They are:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Casper</p>
+</li>
+<li>
+<p>ichi</p>
+</li>
+<li>
+<p>Roon</p>
+</li>
+<li>
+<p>Saga</p>
+</li>
+<li>
+<p>uno</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Currently I like the uno theme for it&#8217;s dark forest splash page. Then the blog link moves that to a left bar showing the posts on the right.</p>
+</div>
+<div class="paragraph">
+<p>I like the way Saga shows your five posts on the home page like little cards. But the LOAD MORE + is not working correctly for me. I like the dark header on the Posts where the title that drops and fades in.</p>
+</div>
+<div class="paragraph">
+<p>The ichi theme is a blue and white theme with an author card.</p>
+</div>
+<div class="paragraph">
+<p>The other themes seem pretty sterile.</p>
+</div>]]></description><link>https://tedbergeron.github.io/hubpress.io/2015/07/02/HubPress-Themes.html</link><guid isPermaLink="true">https://tedbergeron.github.io/hubpress.io/2015/07/02/HubPress-Themes.html</guid><category><![CDATA[theme]]></category><dc:creator><![CDATA[Ted Bergeron]]></dc:creator><pubDate>Thu, 02 Jul 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[HubPress upgraded]]></title><description><![CDATA[<div class="ulist">
+<ul>
+<li>
+<p>Now using v0.2.0.</p>
+</li>
+<li>
+<p>I&#8217;m testing out the themes here.</p>
+</li>
+</ul>
+</div>]]></description><link>https://tedbergeron.github.io/hubpress.io/2015/03/18/HubPress-upgraded.html</link><guid isPermaLink="true">https://tedbergeron.github.io/hubpress.io/2015/03/18/HubPress-upgraded.html</guid><dc:creator><![CDATA[Ted Bergeron]]></dc:creator><pubDate>Wed, 18 Mar 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[We've all been warned]]></title><description><![CDATA[<div class="paragraph">
+<p>about building a house upon the sand.</p>
+</div>
+<div class="quoteblock">
+<div class="title">Software is like Sandcastles</div>
+<blockquote>
+<div class="paragraph">
+<p>Software is basically building a sandcastle. With each turn of the tide, you’ll have shore up some walls and strengthen the foundation.</p>
+</div>
+<div class="paragraph">
+<p>Often a high tide will require a complete rebuild.</p>
+</div>
+</blockquote>
+<div class="attribution">
+&#8212; Ted Bergeron
+</div>
+</div>
+<div class="paragraph">
+<p>I don’t like this analogy, but it is pretty true.</p>
+</div>]]></description><link>https://tedbergeron.github.io/hubpress.io/2015/02/11/Weve-all-been-warned.html</link><guid isPermaLink="true">https://tedbergeron.github.io/hubpress.io/2015/02/11/Weve-all-been-warned.html</guid><category><![CDATA[development]]></category><dc:creator><![CDATA[Ted Bergeron]]></dc:creator><pubDate>Wed, 11 Feb 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Yet Another Post]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Anthonny is helping me to get this thing going. Now that I have my default branch set to "gh-pages", it is working pretty well.</p>
+</div>
+<div class="paragraph">
+<p>I want to figure out how tags work.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_how_tags_work">How Tags Work</h2>
+<div class="sectionbody">
+<div class="literalblock">
+<div class="content">
+<pre>:hp-tags: tag1,tag2</pre>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_add_post_image">Add Post Image</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>and you can also add a post image with</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>:hp-image: http://url-image</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Next I will play around with the themes and try to customize my own.</p>
+</div>
+<div class="admonitionblock caution">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-caution" title="Caution"></i>
+</td>
+<td class="content">
+HubPress.io uses AsciiDoc (admonition here)
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p>This is great.</p>
+</div>
+</div>
+</div>]]></description><link>https://tedbergeron.github.io/hubpress.io/2015/02/04/Yet-Another-Post.html</link><guid isPermaLink="true">https://tedbergeron.github.io/hubpress.io/2015/02/04/Yet-Another-Post.html</guid><category><![CDATA[theme]]></category><dc:creator><![CDATA[Ted Bergeron]]></dc:creator><pubDate>Wed, 04 Feb 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[First Post]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_this_is_my_first_post">This is my first post</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I love that HubPress uses AsciiDoc</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+uses AsciiDoc
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p>This is awesome.</p>
+</div>
+<div class="paragraph">
+<p>I&#8217;ve made a change here. And another.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_added_asciidoctor_styles">Added Asciidoctor styles</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I&#8217;ve added the asciidoctor.css file and a link into the theme template. Let&#8217;s see how it looks?</p>
+</div>
+</div>
+</div>]]></description><link>https://tedbergeron.github.io/hubpress.io/2015/02/03/First-Post.html</link><guid isPermaLink="true">https://tedbergeron.github.io/hubpress.io/2015/02/03/First-Post.html</guid><dc:creator><![CDATA[Ted Bergeron]]></dc:creator><pubDate>Tue, 03 Feb 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[More Coffee Please]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Latte dark, single origin, cream coffee extra acerbic doppio extraction. Skinny so, in at id est sugar. Cultivar, organic a trifecta grinder rich as cultivar doppio grinder percolator rich.</p>
+</div>
+<div class="admonitionblock tip">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-tip" title="Tip"></i>
+</td>
+<td class="content">
+use more sugar
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_decaffeinated">Decaffeinated</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Decaffeinated steamed, carajillo coffee est froth galão. Ut, dripper trifecta latte skinny coffee wings. Single shot, robusta frappuccino as cultivar mazagran caffeine.</p>
+</div>
+<div class="paragraph">
+<p>Spoon robusta mug, robust ristretto extraction percolator acerbic instant saucer. Redeye est, mug ristretto iced, at mocha ristretto body aroma. Milk, caramelization aromatic, single origin, sit galão, milk so caffeine frappuccino ut doppio.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_cinnamon">Cinnamon</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Cinnamon to go sweet, arabica sugar skinny at pumpkin spice. Variety aged dark fair trade, cinnamon that con panna trifecta seasonal extra. Sweet seasonal, siphon cappuccino, shop decaffeinated to go rich percolator to go a aroma.</p>
+</div>
+<div class="paragraph">
+<p>Roast, white eu a siphon grounds milk. Bar milk, turkish, that, barista, siphon bar iced as aroma. Cup brewed a, crema cup body americano café au lait.</p>
+</div>
+<div class="paragraph">
+<p>Espresso, seasonal cup cortado affogato aged turkish café au lait. Robusta steamed coffee crema, fair trade mug dark arabica froth cultivar affogato. Single origin, redeye eu body black saucer cinnamon single origin.</p>
+</div>
+<div class="paragraph">
+<p>Change this Back.</p>
+</div>
+</div>
+</div>]]></description><link>https://tedbergeron.github.io/hubpress.io/2015/01/22/More-Coffee-Please.html</link><guid isPermaLink="true">https://tedbergeron.github.io/hubpress.io/2015/01/22/More-Coffee-Please.html</guid><category><![CDATA[Coffee]]></category><category><![CDATA[ Ipsum]]></category><dc:creator><![CDATA[Ted Bergeron]]></dc:creator><pubDate>Thu, 22 Jan 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Need More Coffee]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Wings seasonal black, that french press caffeine rich latte steamed acerbic. Sugar aromatic mazagran, eu, qui lungo latte dark whipped.</p>
+</div>
+<div class="paragraph">
+<p>White and galão breve grounds so beans. Sweet saucer galão kopi-luwak, rich that affogato breve aged skinny grounds.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_doppio">Doppio</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Instant grinder carajillo id, galão crema doppio cup whipped. Strong, trifecta, body cortado, blue mountain so aroma whipped cup barista organic redeye.</p>
+</div>
+<div class="paragraph">
+<p>Java barista at, latte french press variety turkish cultivar beans coffee. Arabica eu single shot con panna froth black doppio grinder.</p>
+</div>
+<div class="paragraph">
+<p>Breve organic cinnamon crema single origin and organic milk mocha spoon sweet. Robust, redeye and a that macchiato ristretto.</p>
+</div>
+<div class="admonitionblock important">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-important" title="Important"></i>
+</td>
+<td class="content">
+Drink more coffee
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p>Latte, galão instant, robusta rich whipped chicory frappuccino turkish. Lungo, est aftertaste cappuccino aftertaste fair trade instant decaffeinated. Qui percolator ristretto trifecta bar eu roast french press. Macchiato in, brewed so dripper filter bar to go acerbic et trifecta.</p>
+</div>
+<div class="paragraph">
+<p>This is a change.</p>
+</div>
+</div>
+</div>]]></description><link>https://tedbergeron.github.io/hubpress.io/2015/01/19/Need-More-Coffee.html</link><guid isPermaLink="true">https://tedbergeron.github.io/hubpress.io/2015/01/19/Need-More-Coffee.html</guid><category><![CDATA[Coffee]]></category><dc:creator><![CDATA[Ted Bergeron]]></dc:creator><pubDate>Mon, 19 Jan 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Back in Time]]></title><description><![CDATA[<div class="paragraph">
+<p>This post is posted back in time to see how multiple days works.  I just added a new post locally as a .adoc file and pushed it up. Then logged into /HubPress to publish it.</p>
+</div>
+<div class="paragraph">
+<p>Java cinnamon café au lait fair trade extra cream body carajillo. Caffeine espresso and con panna, aftertaste, so milk dark wings barista caffeine fair trade. In single shot saucer beans carajillo, iced con panna french press aroma foam.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>white</p>
+</li>
+<li>
+<p>mocha</p>
+</li>
+<li>
+<p>no-whip</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Shop, french press mazagran brewed, flavour, single origin grounds affogato filter crema. Redeye cortado, saucer white sweet organic sweet. Coffee java, instant pumpkin spice café au lait, spoon wings aromatic at acerbic.</p>
+</div>
+<div class="paragraph">
+<p>Trifecta latte robusta filter sweet, in, single shot shop affogato redeye sit that. Steamed, cinnamon crema at spoon caffeine shop robust aged whipped. Ut so, seasonal aged acerbic robusta medium.</p>
+</div>
+<div class="paragraph">
+<p>Dripper that, con panna café au lait arabica, cup aftertaste decaffeinated aroma percolator crema kopi-luwak. As, and aroma white robust, to go organic foam strong ut flavour. Cultivar, latte whipped white saucer mocha grounds.</p>
+</div>]]></description><link>https://tedbergeron.github.io/hubpress.io/2015/01/15/Back-in-Time.html</link><guid isPermaLink="true">https://tedbergeron.github.io/hubpress.io/2015/01/15/Back-in-Time.html</guid><category><![CDATA[Coffee]]></category><category><![CDATA[ Ipsum]]></category><dc:creator><![CDATA[Ted Bergeron]]></dc:creator><pubDate>Thu, 15 Jan 2015 00:00:00 GMT</pubDate></item></channel></rss>

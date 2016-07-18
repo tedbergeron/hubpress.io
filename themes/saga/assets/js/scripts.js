@@ -2,11 +2,7 @@
 /* jshint browser: true */
 
 var siteurl = $('#site-url').attr("href"); // Get url for blog (in case site is run under a sub-domain)
-<<<<<<< HEAD:themes/Saga/assets/js/scripts.js
-siteurl += "/themes/Saga";
-=======
 siteurl += "/themes/saga";
->>>>>>> refs/remotes/HubPress/master:themes/saga/assets/js/scripts.js
 /******************
  * HIGHLIGHT CODE *
  ******************/

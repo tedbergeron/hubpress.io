@@ -1061,14 +1061,9 @@ body:not(.post-template) .post-title {
     border: none;
 }
 
-<<<<<<< HEAD:themes/Casper/assets/css/screen.css
-/* Stop .full-img from creating horizontal scroll - slight hack due to
-   imperfections with browser width % calculations and rounding */
-=======
 /* Stop elements, such as img wider than the post content, from
    creating horizontal scroll - slight hack due to imperfections
    with browser width % calculations and rounding */
->>>>>>> refs/remotes/HubPress/master:themes/casper/assets/css/screen.css
 .post-template > .content {
     overflow: hidden;
 }
